@@ -1,0 +1,5 @@
+tpm/
+*_old
+*_bachup
+Thumbs.db
+.DS_Store
